@@ -1,7 +1,7 @@
 {
     "name": "CapMine-Launcher",
     "preductname": "CapMine Launcher",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Launcher de Capmine v4",
     "main": "src/app.js",
     "author": "Luuxis, 9e_Docteur",
