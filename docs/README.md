@@ -3,8 +3,8 @@
 <h1 align="center">CapMine Launcher</h1>
 
 [<p align="center">
-<img src="[https://img.shields.io/badge/Version-0.1--DEV-orange]" alt="build">](https://github.com/9e-Docteur/CapMineLauncher/releases) 
-[<img src="[https://img.shields.io/badge/Plateforme-Windows%2C%20Mac%2C%20Linux-blue]" alt="downloads">](https://github.com/9e-Docteur/CapMineLauncher/releases) 
+<img src="https://img.shields.io/badge/Version-0.1--DEV-orange" alt="build">](https://github.com/9e-Docteur/CapMineLauncher/releases) 
+[<img src="https://img.shields.io/badge/Plateforme-Windows%2C%20Mac%2C%20Linux-blue" alt="downloads">](https://github.com/9e-Docteur/CapMineLauncher/releases) 
 [<img src="https://img.shields.io/badge/plateforme-win,%20mac,%20linux-blue.svg?style=social&logo=appveyor" alt="stark">](https://github.com/9e-Docteur/CapMineLauncher/releases)
 </p>
 
