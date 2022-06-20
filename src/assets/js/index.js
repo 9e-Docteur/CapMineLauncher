@@ -41,7 +41,7 @@ class Splash {
     async maintenanceCheck() {
         if (dev) return this.startLauncher();
         config.GetConfig().then(res => {
-            if (res.maintenance) return this.shutdown(res.maintenance_message);
+            if (res.maintenance) return this.setStatus(res.maintenance_message);
             else this.checkUpdate();
         }).catch(e => {
             console.error(e);
@@ -54,7 +54,7 @@ class Splash {
         ipcRenderer.send('update-app');
 
         ipcRenderer.on('updateAvailable', () => {
-            this.setStatus(`Mise à jour disponible !`);
+            this.setStatus(`Mise à jour en cours...`);
             this.toggleProgress();
         })
 

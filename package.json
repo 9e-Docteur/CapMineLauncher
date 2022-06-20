@@ -1,8 +1,8 @@
 {
     "name": "CapMine-Launcher",
     "preductname": "CapMine Launcher",
-    "version": "1.0.2",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "version": "1.0.7",
+    "description": "Launcher de Capmine v4",
     "main": "src/app.js",
     "author": "Luuxis, 9e_Docteur",
     "url": "http://launcher.capmine.tk",

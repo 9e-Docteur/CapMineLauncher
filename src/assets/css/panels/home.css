@@ -11,7 +11,6 @@
 
 .player-head {
     margin: auto 30px;
-    background-image: url("../../images/default/setve.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -36,6 +35,8 @@
     height: 50px;
     border: none;
     border-radius: 15px;
+    background-color: #4d4d4d;
+    opacity: 80;
     transition: all 0.5s cubic-bezier(1, 0.46, 0, 1.29);
 }
 
