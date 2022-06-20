@@ -64,11 +64,26 @@
     height: 37px;
     border-radius: 20px;
     border: none;
-    background: #00bd7a;
+    background:radial-gradient(#f31c00, #ff6600);
     font: normal normal bold 20px/25px Poppins;
     color: #121212;
     margin: 15px 0;
-    box-shadow: 0 0 5px #00bd7a;
+    box-shadow: 0 0 5px #ff0000;
+    transition: 1s;
+}
+
+.play-btn:hover {
+    top: 10px;
+    width: 160px;
+    height: 37px;
+    border-radius: 20px;
+    border: none;
+    background:radial-gradient(#f38a00, #ff6600);
+    font: normal normal bold 20px/25px Poppins;
+    color: #121212;
+    margin: 15px 0;
+    box-shadow: 0 0 5px #ff0000;
+    transition: 1s;
 }
 
 .download-content {
@@ -126,7 +141,7 @@
 
 .news-block:hover {
     transition: opacity 1s;
-    opacity: 1;
+    opacity: 80;
 }
 
 .opacity-1 {

@@ -1,11 +1,12 @@
 <p align="center"><img src="../src/assets/images/icon.png" width="65%" height="65%" alt="icon-launcher"></p>
 
-<h1 align="center">CapMine Launcher</h1>
+<h1 align="center">Selvania Launcher</h1>
 
 [<p align="center">
-<img src="https://img.shields.io/badge/Version-0.1--DEV-orange" alt="build">](https://github.com/9e-Docteur/CapMineLauncher/releases) 
-[<img src="https://img.shields.io/badge/Plateforme-Windows%2C%20Mac%2C%20Linux-blue" alt="downloads">](https://github.com/9e-Docteur/CapMineLauncher/releases) 
-[<img src="https://img.shields.io/badge/plateforme-win,%20mac,%20linux-blue.svg?style=social&logo=appveyor" alt="stark">](https://github.com/9e-Docteur/CapMineLauncher/releases)
+<img src="https://img.shields.io/badge/build-bêta-orange.svg?style=social&logo=appveyor" alt="build">](https://github.com/luuxis/Selvania-Launcher/releases) 
+[<img src="https://img.shields.io/badge/version-V3.0.0--pre.1-orange.svg?style=social&logo=appveyor" alt="downloads">](https://github.com/luuxis/Selvania-Launcher/releases) 
+[<img src="https://img.shields.io/badge/plateforme-win,%20mac,%20linux-blue.svg?style=social&logo=appveyor" alt="stark">](https://github.com/luuxis/Selvania-Launcher/releases)
+<img src="https://img.shields.io/github/languages/code-size/luuxis/Selvania-Launcher?style=social&logo=appveyor" alt="size">
 </p>
 
 
@@ -14,8 +15,8 @@
 **Cloner et installer les dépendances**
 
 ```console
-> git clone https://github.com/9e-Docteur/CapMineLauncher.git
-> cd CapMine-Launcher
+> git clone https://github.com/luuxis/Selvania-Launcher.git
+> cd Selvania-Launcher
 (si linux) > sudo apt install -y libatomic1
 > npm install
 ```
@@ -75,3 +76,5 @@
 
 [releases]: https://github.com/luuxis/Selvania-Launcher/releases 'releases'
 [build]: https://github.com/luuxis/Selvania-Launcher/releases 'build'
+
+

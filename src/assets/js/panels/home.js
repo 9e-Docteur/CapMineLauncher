@@ -181,7 +181,7 @@ class Home {
             online.classList.toggle("off");
             playersConnected.textContent = serverPing.playersConnect;
         } else if (serverPing.error) {
-            nameServer.textContent = 'Serveur indisponible';
+            nameServer.textContent = 'Serveur Hors-Ligne';
             serverMs.innerHTML = `<span class="red">Hors ligne</span>`;
         }
     }
