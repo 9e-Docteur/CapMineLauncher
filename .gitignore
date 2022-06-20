@@ -6,3 +6,4 @@ package-lock.json
 dist
 node-v*
 AppData
+node_modules

@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Luuxis, 9e_Docteur",
-    "url": "http://130.61.36.120",
+    "url": "http://launcher.capmine.tk",
     "engines": {
         "node": "16.x.x"
     },
