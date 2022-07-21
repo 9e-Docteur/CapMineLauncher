@@ -15,8 +15,8 @@
 **Cloner et installer les dépendances**
 
 ```console
-> git clone https://github.com/luuxis/Selvania-Launcher.git
-> cd Selvania-Launcher
+> git clone https://github.com/luuxis/CapMineLauncher.git
+> cd CapMineLauncher
 (si linux) > sudo apt install -y libatomic1
 > npm install
 ```
