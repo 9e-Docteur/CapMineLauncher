@@ -5,7 +5,7 @@
     "description": "Launcher de Capmine v4",
     "main": "src/app.js",
     "author": "Luuxis, 9e_Docteur",
-    "url": "http://launcher.capmine.tk",
+    "url": "http://130.61.36.120",
     "engines": {
         "node": "16.x.x"
     },

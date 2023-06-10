@@ -19,8 +19,9 @@ class Splash {
         let splashes = [
             { "message": "Depuis 2018", "author": "9e_Docteur" },
             { "message": "Crée par 9e_Docteur", "author": "9e_Docteur" },
-            { "message": "La v4!!!", "author": "9e_Docteur" },
-            { "message": "J'ai hâte que capmine soit fini", "author": "Funky Creeper"}
+            { "message": "Made with ❤️", "author": "9e_Docteur" },
+            { "message": "📝", "author": "9e_Docteur"},
+            { "message": "01B010U01G D01010AN1010S L10101E 101LAU0100N11CHER", "author": "010101010101"}
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;

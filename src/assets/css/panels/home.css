@@ -35,7 +35,7 @@
     height: 50px;
     border: none;
     border-radius: 15px;
-    background-color: #4d4d4d;
+    background-color: linear-gradient(to right, #FFA500, #FFD700);;
     opacity: 80;
     transition: all 0.5s cubic-bezier(1, 0.46, 0, 1.29);
 }
@@ -59,17 +59,18 @@
     text-align: center;
 }
 
+
+
 .play-btn {
     top: 10px;
     width: 160px;
     height: 37px;
     border-radius: 20px;
     border: none;
-    background:radial-gradient(#f31c00, #ff6600);
+    background:linear-gradient(to right, #FFA500, #FFD700);
     font: normal normal bold 20px/25px Poppins;
     color: #121212;
     margin: 15px 0;
-    box-shadow: 0 0 5px #ff0000;
     transition: 1s;
 }
 
@@ -83,7 +84,7 @@
     font: normal normal bold 20px/25px Poppins;
     color: #121212;
     margin: 15px 0;
-    box-shadow: 0 0 5px #ff0000;
+    box-shadow: 0 0 5px #ff7b00;
     transition: 1s;
 }
 

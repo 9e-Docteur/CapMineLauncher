@@ -15,30 +15,30 @@
     width: 160px;
     height: 37px;
     margin: auto 30px;
-    background:radial-gradient(#f31c00, #ff6600);
-    border:radial-gradient(#f31c00, #ff6600 4px solid);
+    background:linear-gradient(to right, #FFA500, #FFD700);
+    border:linear-gradient(to right, #FFA500, #FFD700);
     font: normal normal bold 20px/25px Poppins;
     cursor: pointer;
-    box-shadow: 0 0 5px #ff0000;
+    box-shadow: 0 5 5px #ffa200;
     outline: none;
 }
 
 .tab-btn-css:hover {
-    background:radial-gradient(#f31c00, #ff6600);
-    box-shadow: 0 0 5px #ff0000;
-    border: 4px solid #fa0000;
+    background:linear-gradient(to right, #FFA500, #FFD700);
+    box-shadow: 0 0 5px #ff950084;
+    border: 4px solid #ffaa0070;
 }
 
 .active-tab-btn {
-    background: #ff0000;
-    border: 4px solid #bd5d26;
-    box-shadow: 0 0 5px #bd5d26;
+    background: linear-gradient(to right, #ffd27d, #ffec7e);
+    border: 4px solid #ffaa00;
+    box-shadow: 0 0 5px #ff9500;
 }
 
 .active-tab-btn:hover {
-    background: #ff0000;
-    border: 4px solid #bd5d26;
-    box-shadow: 0 0 5px #bd5d26;
+    background: linear-gradient(to right, #ffbb3e, #ffe136);;
+    border: 4px solid #ff5e00;
+    box-shadow: 0 0 5px #ffd900;
 }
 
 .tabs-settings-content {
@@ -122,9 +122,9 @@
 
 .account {
     display: inline-block;
-    background:radial-gradient(#f31c00, #ff6600);
-    box-shadow: 0 0 5px #ff0000;
-    border: 4px solid #ff0000;
+    background:radial-gradient(#00f308, #84ff00);
+    box-shadow: 0 0 5px #2c2c2c;
+    border: 4px solid #343434;
     font: normal normal bold 30px/40px Poppins;
     width: 500px;
     height: 100px;
@@ -134,7 +134,7 @@
 }
 
 .account:hover {
-    background: #ff0000;
+    background: linear-gradient(to right, #e5ff00, #51ff00);
     box-shadow: 0 0 5px #ff0000;
     border: 4px solid #ff0000;
 }
@@ -188,13 +188,13 @@
 }
 
 .active-account {
-    background:radial-gradient(#f31c00, #ff6600);
+    background:linear-gradient(to right, #FFA500, #FFD700);
     border: 4px solid #bd5d26;
     box-shadow: 0 0 5px #bd5d26;
 }
 
 .active-account:hover {
-    background:radial-gradient(#f37500, #ff6600);
+    background:linear-gradient(to right, #ffa600c8, #ffd900a0);
     border: 4px solid #bd5d26;
     box-shadow: 0 0 5px #bd5d26;
 }
@@ -462,7 +462,7 @@
 }
 
 .checkbox-settings:checked+label {
-    background:radial-gradient(#f31c00, #ff6600);
+    background:linear-gradient(to right, #FFA500, #FFD700);;
 }
 
 .checkround {
